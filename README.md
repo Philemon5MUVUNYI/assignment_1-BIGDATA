@@ -12,7 +12,7 @@ def ageCalculation(year):  # define the function of the age cslculation
 
 print("f{name}, your age is {ageCalculation(year)}")  # displaying the name and calling the function of the ageCalculation
 ```
-##Question_2
+## Question_2
 
 ```py
 originalString = input("Enter string for palindrome check") # asking the user to put the string that can be checked
