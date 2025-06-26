@@ -12,6 +12,10 @@ def ageCalculation(year):  # define the function of the age cslculation
 
 print("f{name}, your age is {ageCalculation(year)}")  # displaying the name and calling the function of the ageCalculation
 ```
+
+![WhatsApp Image 2025-06-26 at 04 23 20_ca27fd6e](https://github.com/user-attachments/assets/7ce19217-1aea-4c82-a138-1ff1116db9a5)
+
+
 ## Question_2
 
 ```py
@@ -28,3 +32,5 @@ def checkPalindrome(originalString): # declaring the function to check if the St
 
 checkPalindrome(originalString)      # Call function
 ```
+
+![2](https://github.com/user-attachments/assets/b2288dc5-df63-4afb-b47a-269beb542878)
