@@ -15,7 +15,7 @@ print("f{name}, your age is {ageCalculation(year)}")  # displaying the name and 
 ##Question_2
 
 ```py
-originalString = input("Enter string for palindrome check") #asking the user to put the string that can be checked
+originalString = input("Enter string for palindrome check") # asking the user to put the string that can be checked
 
 def checkPalindrome(originalString): # declaring the function to check if the String is palindrome
   reversed = ""                      # declare a variable called reversed with empty string
